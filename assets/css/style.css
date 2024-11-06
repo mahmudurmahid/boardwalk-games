@@ -27,6 +27,16 @@ h3 {
     color: var(--highlight-color);
 }
 
+/* Navbar */
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    width: 30px;
+}
+
+/*
 .container,
 .row {
     border: 2px solid black;
@@ -36,3 +46,6 @@ h3 {
     border: 2px solid white;
     background-color: lightgray;
 }
+*/
+
+    
